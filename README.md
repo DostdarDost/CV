@@ -25,7 +25,8 @@ stochastic process and proposed solution for magnetohydrodynamic (MHD) system.
 
 
 ## Talks & Lectures
-- Lecturer: Karakouram International University - MATH-301, Fall 2021
+- Lecturer: Karakouram International University - MATH-301, Fall 2021, Fall 2023,
+- A
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Image, at High tech train center Gilgit.
 
 
