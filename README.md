@@ -29,9 +29,6 @@ stochastic process and proposed solution for magnetohydrodynamic (MHD) system.
 - A
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Image, at High tech train center Gilgit.
 
+## For More Details
+[DOSTDAR_ALI_CV .pdf](https://github.com/DostdarDost/CV/files/12745667/DOSTDAR_ALI_CV.pdf)
 
-
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
